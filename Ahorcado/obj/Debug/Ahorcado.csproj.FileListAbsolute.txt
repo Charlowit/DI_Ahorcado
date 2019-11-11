@@ -1,0 +1,13 @@
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form2.resources
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form3.resources
+C:\Users\Charlowit\Desktop\DI\VistualRepos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form4.resources
